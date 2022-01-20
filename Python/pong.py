@@ -123,6 +123,9 @@ while True:
                 player_speed += 7
             if event.key == pygame.K_w:
                 player_speed -= 7
+            if event.key == pygame.K_q:
+                pygame.quit()
+                sys.exit()
         if event.type == pygame.KEYUP:
             if event.key == pygame.K_s:
                 player_speed -= 7
