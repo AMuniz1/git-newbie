@@ -1,1 +1,1 @@
-# git-newbie for C, Python and Qt 6 Core newbie exercises
+# git-newbie  for console applications for a newbie like me. This will contain every language I know (will contain C, C++, Rust, Python, Java, WebAssembly, JavaScript, Gtk 3 and Qt 6 Core - small projects for learning purpose, larger projects will be on other directories).
